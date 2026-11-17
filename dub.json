@@ -1,0 +1,9 @@
+{
+    "name": "royalty-calc",
+    "description": "Helpers for estimating oil and gas royalty payments and decimal interest for mineral owners. By Texas Royalty Brokers.",
+    "homepage": "https://texasroyaltybrokers.com/",
+    "authors": ["Texas Royalty Brokers"],
+    "copyright": "Copyright 2026, Texas Royalty Brokers",
+    "license": "MIT",
+    "targetType": "library"
+}
